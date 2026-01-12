@@ -1,0 +1,101 @@
+-  What is flutter and why flutter being used
+- What is widget and its type 
+- What is state 
+- Lifecycle methods of widget 
+-  App lifecycle state 
+-  What is synchronus and asynchronus in flutter 
+- Do you know streams and its type  
+- Method channel and event channel 
+- How to handle responsiveness of app over web and mobile app 
+- Have ever worked with flutter web 
+- Do you know null aware operators  and where to use
+- What is state
+- Statefull stateless diff 
+- Singleton class 
+- Static const final difference
+- Constructor type
+- Example of constructor classes and singleton class
+- Approaches used for translation 
+- State management architectures
+- Explain the widget tree and how Flutter renders UI.
+- What are keys in Flutter? When do you use GlobalKey?
+- Explain hot reload vs hot restart.
+- What are mixins in Dart? Give an example.
+- What are Futures, Streams and async/await?
+- Difference between final, const, and var?
+- What are extension methods in Dart?
+- What is null-safety? How do you handle nullable variables?
+- What are factory constructors?
+- What are InheritedWidget and Provider? Why are they important?
+- What are the three pillars of GetX?
+- State Management
+- Dependency Injection
+- Route Management
+- What is GetBuilder, Obx, and GetX widget? How are they different?
+- What is Rx type in GetX?
+- How do you handle navigation using GetX?
+- How does dependency injection work in GetX (Get.put(), Get.lazyPut(), Get.find())?
+- What is the purpose of the BLoC pattern?
+- Difference between Cubit and Bloc.
+- What are events and states in Bloc?
+- How do you connect Bloc to UI (BlocBuilder, BlocListener, BlocConsumer)?
+- What is HydratedBloc and when should it be used?
+- How do you call an API in Flutter? (Dio / http)
+- How do you parse JSON in Flutter? (manual / json_serializable)
+- What is shared_preferences? When would you use SQLite instead?
+- How do you store data locally?
+- What is SharedPreferences?
+- What is SQLite? How do you use it in Flutter?
+- What is const constructor and why is it important?
+- How do you implement dark mode?
+- What are nullable and non-nullable types in Dart?
+- What are classes and objects in Dart?
+- What is a constructor?
+- What are MaterialApp and CupertinoApp?
+- What is Scaffold?
+- How do you add images in Flutter?
+- What is state management?
+- How do you pass data between screens?
+- What are dependencies and dev_dependencies in Flutter?
+- FLAVOR
+- Platform Channel
+- Isolates
+
+
+
+Advance Topics to be covered : 
+
+1. Native to flutter : Method channel & Event channel 
+
+  - Method channel practical 
+  - Where we can use method channel 
+  - How to reduce uses of packages using method channel 
+  - Common logics using method channel that reduces usesage of packages like flutter version info using method channel, url launcher native code, flavors 
+  -  Event channel battery %ge
+
+2. SQFlite 
+   
+	- How to use and implement package
+	- Common queries like insert, delete, update, search
+
+3.  Singleton logics 
+
+   	- Firebase Service 
+ 	- Push notification 
+	- Reminders
+ 	- Get Storages
+	- Theme Setups
+	- Text style setups
+	- Deep link 
+	- Paginations custom handlings without pagination packages
+
+
+4. Null Safety
+
+   	- Try Catch finally common logics implementation
+ 	- Null Handling in models 
+	- Null checks in UI 
+	- Avoid late initializers 
+	- Empty constructors for better handling 
+	- String, List empty handlings and Empty UI cases handling 
+	- usage of dynamic in case of cashing variables in models
